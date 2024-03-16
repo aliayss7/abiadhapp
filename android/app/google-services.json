@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956411219275",
+    "project_id": "abiadh",
+    "storage_bucket": "abiadh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956411219275:android:cb141c37f5fccc92a3acce",
+        "android_client_info": {
+          "package_name": "com.abiadh.alimarket_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QbOOMYoBNCvc14_nDRZrtOMIoB0eaQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
